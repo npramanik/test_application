@@ -16,6 +16,10 @@ class UsersController < ApplicationController
   end
 
   def update
-    
+    # update added
+  end  
+
+  def edit
+    #new methods add
   end
 end
