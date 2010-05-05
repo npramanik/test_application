@@ -8,7 +8,7 @@ class UsersController < ApplicationController
   end
   
   def show
-    # create a new method
+  # create a new method
   end
 
   def index
