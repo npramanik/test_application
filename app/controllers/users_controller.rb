@@ -6,7 +6,12 @@ class UsersController < ApplicationController
       format.js { }
     end
   end
-    def show
+  
+  def show
     # create a new method
+  end
+
+  def index
+    # index goes here
   end
 end
