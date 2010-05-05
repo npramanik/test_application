@@ -12,7 +12,7 @@ class UsersController < ApplicationController
   end
 
   def index
-    # index goes here
+    # index goes here amitava
   end
 
   def update
