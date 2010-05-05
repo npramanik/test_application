@@ -26,4 +26,11 @@ class UsersController < ApplicationController
   def edit
     #new methods add
   end
+
+  def update
+    respond_to do |format|
+      format.html { }    
+      format.js { }
+    end
+  end
 end
