@@ -14,4 +14,8 @@ class UsersController < ApplicationController
   def index
     # index goes here
   end
+
+  def update
+    
+  end
 end
