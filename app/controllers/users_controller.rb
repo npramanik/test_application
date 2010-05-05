@@ -7,6 +7,10 @@ class UsersController < ApplicationController
     end
   end
   
+  def moron
+    # who wants to be ???????
+  end
+  
   def show
   # create a new method
   end
