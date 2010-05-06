@@ -12,11 +12,15 @@ class UsersController < ApplicationController
   end
   
   def show
-  # create a new method
+    respond_to do |format|
+      format.html {  }
+    end
   end
 
   def index
-    # Please write some code there
+    respond_to do |format|
+      format.html {  }
+    end
   end
 
   def update
