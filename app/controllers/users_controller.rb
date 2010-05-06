@@ -24,7 +24,9 @@ class UsersController < ApplicationController
   end
 
   def update
-    # update added
+    respond_to do |format|
+      format.html {  }
+    end
   end  
 
   def edit
