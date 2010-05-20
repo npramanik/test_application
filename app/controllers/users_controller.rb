@@ -53,6 +53,6 @@ class UsersController < ApplicationController
   end  
   
   def join
-      # join relation 
+      # join relation .........
   end
 end
