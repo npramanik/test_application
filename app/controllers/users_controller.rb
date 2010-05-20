@@ -50,5 +50,9 @@ class UsersController < ApplicationController
   
   def destroy
     
+  end  
+  
+  def join
+    
   end
 end
